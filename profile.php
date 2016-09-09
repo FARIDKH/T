@@ -11,6 +11,7 @@
         <link rel="stylesheet" href="assets/assets/css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="assets/css/main.css">
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+        <link rel="stylesheet" href="font-awesome/cssf/font-awesome.min.css">
     </head>
     <body>
         <div class="container-fluid">
@@ -69,13 +70,82 @@
                       <li>Harvested</li>
                    </ul>
                    <img src="img/empty-state.png" class="img-responsive" alt="Responsive image">
-                   <p>Whoops you don't have any on planting seed</p>
+                    <p>Whoops you don't have any on planting seed</p>
                    </div>
                            </div>
                            </div>
                        </div>
                                 
                    <div class="col-md-3">
+                   <div class="upcoming">
+                       
+                       <h3 class="text-capitalize text-center">
+                           Upcoming Harvest
+                       </h3>
+                       <hr>
+                       <p class="text-center">There is no upcoming harvest </p>
+                   </div>
+                   <div class="investment">
+                    <h3 class="text-capitalize text-center">
+                           Recent Investment
+                       </h3>
+                       <hr>
+                       <ul class="media-list">
+  <li class="media">
+    <a class="media-left" href="#">
+      <img class="media-object" src="/images/pathToYourImage.png" alt="Generic placeholder image">
+    </a>
+    <div class="media-body">
+      <span class="media-heading">Irma R Thala has planted crop</span>
+      <p><a href="#">Avocado</a> in <a href="#"> Tanjung Lesung Agropolis</a></p>
+    </div>
+  </li>
+  <p>1 day ago</p>
+
+  <li class="media">
+    <a class="media-left" href="#">
+      <img class="media-object" src="/images/pathToYourImage.png" alt="Generic placeholder image">
+    </a>
+    <div class="media-body">
+       <span class="media-heading">Irma R Thala has planted crop</span>
+      <p><a href="#">Deli Water Apple </a> in <a href="#">  Jonggol, Jawa Barat</a></p>
+    </div>
+  </li>
+  <p>1 day ago</p>
+
+  <li class="media">
+    <a class="media-left" href="#">
+      <img class="media-object img-responsive" src="/images/pathToYourImage.png" alt="Generic placeholder image">
+    </a>
+    <div class="media-body">
+       <span class="media-heading">Irma R Thala has planted crop</span>
+      <p><a href="#">Avocado</a> in <a href="#">Agro Realty - Garut</a></p>
+    </div>
+  </li>
+  <p>1 day ago</p>
+
+</ul>
+                       
+                   </div>
+                   <div class="ourBlog">
+                       
+                       <h3 class="text-capitalize text-center">
+                           From Our Blog
+                       </h3>
+                       <hr>
+                        <spam>
+                            <a href="#" class="text-capitalize">Obah</a>
+                            <p>2 days ago</p>
+                       </spam>
+                        <spam>
+                            <a href="#" class="text-capitalize">Selling An Experience, Selling A Vision</a>
+                            <p>1 month ago</p>
+                       </spam>
+                        <spam>
+                            <a href="#" class="text-capitalize">Seeds of Life</a>
+                            <p>1 month ago</p>
+                       </spam>
+                   </div>
                        
                    </div>
                 </div>
