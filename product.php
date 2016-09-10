@@ -24,7 +24,7 @@
 	<br>
 
 	<div class="row ">
-	<div class="col-md-3  " >
+	<div class="col-md-3  col-xs-12 " >
 		<div style="background-color:white" class="elsen text-center">
 			<img  src="assets/images/2.jpg" alt="">
 			<h4 >Date Palm</h4>
@@ -38,7 +38,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="col-md-3">
+	<div class="col-md-3 col-xs-12">
 		<div style="background-color:white" class=" elsen text-center">
 			<img src="assets/images/15.jpg" alt="">
 			<h4 >Avocado</h4>
@@ -52,7 +52,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="col-md-3">
+	<div class="col-md-3 col-xs-12">
 		<div style="background-color:white" class=" elsen text-center">
 			<img src="assets/images/14.jpg" alt="">
 			<h4 >Fragrant Roots</h4>
@@ -66,7 +66,7 @@
 			</div>
 		</div>
 	</div>
-		<div class="col-md-3">
+		<div class="col-md-3 col-xs-12">
 		<div style="background-color:white" class=" elsen text-center">
 			<img src="assets/images/13.jpg" alt="">
 			<h4 ">Deli Water Apple</h4>
@@ -85,7 +85,7 @@
 	<br>
 	<br>
 	<div class="row ">
-	<div class="col-md-3" >
+	<div class="col-md-3 col-xs-12" >
 		<div style="background-color:white" class=" elsen text-center">
 			<img  src="assets/images/2.jpg" alt="">
 			<h4 >Date Palm</h4>
@@ -99,7 +99,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="col-md-3">
+	<div class="col-md-3 col-xs-12">
 		<div style="background-color:white" class=" elsen text-center">
 			<img src="assets/images/2.jpg" alt="">
 			<h4 >Avocado</h4>
@@ -113,7 +113,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="col-md-3">
+	<div class="col-md-3 col-xs-12">
 		<div style="background-color:white" class=" elsen text-center">
 			<img src="assets/images/2.jpg" alt="">
 			<h4 >Fragrant Roots</h4>
@@ -127,7 +127,7 @@
 			</div>
 		</div>
 	</div>
-		<div class="col-md-3">
+		<div class="col-md-3 col-xs-12">
 		<div style="background-color:white" class=" elsen text-center">
 			<img src="assets/images/12.jpg" alt="">
 			<img class="sold-out" src="assets/images/sold-out.png">
@@ -147,7 +147,7 @@
 	<br>
 	<br>
 	<div class="row ">
-	<div class="col-md-3" >
+	<div class="col-md-3 col-xs-12" >
 		<div style="background-color:white" class=" elsen text-center">
 			<img  src="assets/images/11.jpg" alt="">
 			<img class="sold-out" src="assets/images/sold-out.png">
@@ -162,7 +162,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="col-md-3">
+	<div class="col-md-3 col-xs-12">
 		<div style="background-color:white" class=" elsen text-center">
 			<img src="assets/images/9.jpg" alt="">
 			<img class="sold-out" src="assets/images/sold-out.png">
@@ -177,7 +177,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="col-md-3">
+	<div class="col-md-3 col-xs-12">
 		<div style="background-color:white" class=" elsen text-center">
 			<img src="assets/images/8.jpg" alt="">
 			<h4 >Durian</h4>
@@ -191,7 +191,7 @@
 			</div>
 		</div>
 	</div>
-		<div class="col-md-3">
+		<div class="col-md-3 col-xs-12">
 		<div style="background-color:white" class=" elsen text-center">
 			<img src="assets/images/1.jpg" alt="">
 			<h4 ">Olive</h4>

@@ -15,13 +15,21 @@
 
 		<script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 		<script src="js/main.js"></script>
+		<style>
+			@media (max-width: 480px){
+				.notify{
+					width: 280px !important;
+
+
+}}
+		</style>
 </head>
 <body>
 <section id="productsingle">
 <div class="container-fluid">
 	<div class="container">
 		<div class="row">
-			<div class=" peanut col-md-9">
+			<div class=" peanut col-md-9 col-xs-12">
 				<div  class="peanutbtn">
                    <h1 class="pull-left" style="min-width:200px">Peanut</h1>
                    <button class=" profit pull-right btn btn-success"><i class="fa fa-line-chart " aria-hidden="true"></i><a href="">PROFIT SIMULATION</a> </button>
@@ -33,12 +41,12 @@
 				<br>
 				<hr class="pull-right" width="70%">
 				<div class="row">
-					<div class="col-md-5">
+					<div class="col-md-5 col-xs-12">
 						<div>
-							<img  src="assets/images/11.jpg" alt="">
+							<img  class="img img-responsive" src="assets/images/11.jpg" alt="">
 						</div>
 					</div>
-					<div class="col-md-7">
+					<div class="col-md-7 col-xs-12">
 						<div class="hectar">
 							<h2>$ 1.213/Hectar</h2>
 							<br>
@@ -64,7 +72,7 @@
 				<br>
 				<br>
 				<div class="row" >
-					<div class="col-md-12 textt">
+					<div class="col-md-12 col-xs-12 textt">
 						<p class="p1">In cooperation with CV Mitra Garuda, Cooperative Andhika, and MUI with Bali-Buleleng peanut farmers, iGrow began planting peanuts this season.&nbsp; The cost of planting per hectare includes the lease of land, seed, and costs of planting, maintenance, harvesting and marketing, administration, and supervision fees ($ 1,173 per hectare per 6 months).</p>
 						<p class="p2">&nbsp;</p>
 						<p class="p1">Planting peanuts has a high risk because peanuts are seasonal plants.&nbsp; However, the result of the first harvest gave profit around 13% for six months, thanks to God.</p>
@@ -76,7 +84,7 @@
 
 
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3 col-xs-12">
 				<div class="seeOther">
 					<h3>See Other Plantation</h3>
 					<ul >
