@@ -274,7 +274,19 @@
             
         </section>       
        
-
+       
+       <section id="gallery_header">
+            
+            <button class="btn defaultButton">
+                VIEW ALL
+            </button>
+            
+        </section>
+    
+       <div id="scroll_to_up">
+           
+       </div>
+       
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script src="js/vendor/jquery-1.11.2.min.js"></script>
         <script src="js/vendor/bootstrap.min.js"></script>

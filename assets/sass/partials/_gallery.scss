@@ -7,6 +7,21 @@
         font-size:50px;
         margin-bottom:25px;
     }
+    button{
+            background-color:transparent;
+            color:#35362F;
+            border:5px solid #35362F;  
+            border-radius: 0;
+            font-weight:700;
+            padding:20px 40px;
+            margin-right:20px;
+            transition: all 0.3s ease;
+            position: relative;
+            &:hover{
+                color:$mainColor;
+                background-color: #35362F;
+            }
+        }
     .divider{ 
         width:350px;
         position: relative;
@@ -27,6 +42,7 @@
 }
 
 #gallery {
+    overflow-y: hidden;
     .grid-item { 
         width: 25%; 
         height: 430px;
