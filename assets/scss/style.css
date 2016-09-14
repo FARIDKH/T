@@ -1,0 +1,128 @@
+html {
+  overflow-x: hidden;
+  width: 100%;
+  height: 100%; }
+
+#welcome .first_container {
+  width: 900px; }
+#welcome p {
+  font-size: 30px;
+  position: relative;
+  font-weight: 300 !important;
+  top: 90px;
+  font-family: "Open Sans", sans-serif; }
+#welcome .line {
+  width: 100%;
+  border-bottom: 5px solid black;
+  position: relative;
+  left: 0px;
+  top: 94px;
+  width: 90px; }
+  #welcome .line:before {
+    content: '';
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px solid black;
+    width: 700px;
+    top: 5px;
+    left: -10px;
+    opacity: 0.1; }
+#welcome h1 {
+  padding: 150px 0px 70px 00px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 45px; }
+#welcome .first_img img, #welcome .second_img img {
+  width: 100%; }
+#welcome .first_prgph {
+  margin-bottom: 80px !important; }
+#welcome .first_prgph p, #welcome .second_prgph p {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+  position: relative;
+  top: 50px; }
+#welcome button {
+  background-color: transparent;
+  padding: 15px 0 15px 0px;
+  border: 3px solid black;
+  width: 150px;
+  position: relative;
+  top: 150px; }
+
+#footer {
+  overflow-x: hidden;
+  background-color: #35362F;
+  position: relative; }
+  #footer h1 {
+    color: white;
+    padding: 70px;
+    font-size: 30px;
+    font-family: 'Roboto Slab',serif; }
+  #footer .line {
+    width: 100%;
+    background-color: white;
+    border-bottom: 4px solid white;
+    position: absolute;
+    left: 15px;
+    width: 90px; }
+    #footer .line:before {
+      content: '';
+      position: absolute;
+      display: inline-block;
+      border-bottom: 1px solid white;
+      width: 960px;
+      top: 2px;
+      left: -35px;
+      opacity: 0.1; }
+  #footer h2 {
+    color: white;
+    padding: 40px 0;
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700; }
+  #footer img {
+    padding-top: 80px; }
+  #footer input {
+    width: 500px;
+    height: 50px;
+    margin: 2px;
+    font-size: 20px;
+    padding-left: 20px;
+    background: #4A4A44;
+    border: none;
+    color: white; }
+  #footer textarea {
+    min-width: 500px;
+    max-width: 500px;
+    height: 200px;
+    margin: 2px;
+    font-size: 20px;
+    padding-left: 20px;
+    background: #4A4A44;
+    border: none; }
+  #footer button {
+    background-color: #AEBE27;
+    padding: 20px;
+    margin: 50px 0px;
+    width: 165px;
+    color: white;
+    border: 3px solid #AEBE27; }
+  #footer span {
+    color: white;
+    font-size: 20px; }
+  #footer ul {
+    padding: 80px; }
+  #footer li {
+    padding-top: 15px;
+    margin: 10px -45px;
+    font-size: 25px;
+    list-style-type: none; }
+    #footer li a {
+      color: #E1F619;
+      text-decoration: none; }
+    #footer li .plan {
+      position: relative;
+      bottom: -40px; }
+
+/*# sourceMappingURL=style.css.map */
