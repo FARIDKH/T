@@ -1,0 +1,21 @@
+#signin, #signup {
+  background: #FAFAFA; }
+  #signin .col-md-4 > h2, #signup .col-md-4 > h2 {
+    margin-top: 50px;
+    color: #777777; }
+  #signin .col-md-4 > p, #signup .col-md-4 > p {
+    margin: 30px 0;
+    font-size: 16px;
+    color: #858585; }
+  #signin .col-md-4 > form .form-control, #signup .col-md-4 > form .form-control {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important; }
+  #signin .col-md-4 > form a, #signup .col-md-4 > form a {
+    font-size: 16px;
+    font-weight: 700;
+    color: #417630;
+    text-decoration: none; }
+  #signin .col-md-4 > form .btn-2, #signup .col-md-4 > form .btn-2 {
+    margin: 30px 0; }
+
+/*# sourceMappingURL=signin.css.map */
